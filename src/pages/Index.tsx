@@ -16,7 +16,7 @@ const Index = () => {
       <footer className="bg-gray-900 text-white py-12">
         <div className="container mx-auto px-6 text-center">
           <p className="text-gray-400 mb-4">
-            © 2024 Collins. All rights reserved.
+            © 2024 Collins Karani. All rights reserved.
           </p>
           <p className="text-gray-500 text-sm">
             Built with React, TypeScript, and Tailwind CSS
